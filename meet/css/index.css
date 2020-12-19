@@ -13,6 +13,7 @@
         background: url(https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=3212322332,1117522907&fm=26&gp=0.jpg);
         background-attachment: fixed;
         background-blend-mode: lighten;
+        background-size: contain;
     }
     
     .container{
